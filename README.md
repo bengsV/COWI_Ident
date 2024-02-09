@@ -4,7 +4,7 @@ This repository holds the code for our paper "Identifying Copeland Winners in Du
 
 ArXiv preprint: [https://arxiv.org/abs/2109.06234](https://arxiv.org/abs/2310.00750)
 
-Published paper (open access): Coming soon!
+Published paper (open access): Coming soon at AISTATS 2024!
 
 Please cite this work as
 ```
