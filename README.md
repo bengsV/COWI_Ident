@@ -25,7 +25,7 @@ We consider the task of identifying the Copeland winner(s) in a dueling bandits 
 For the sake of reproducibility, we will detail how to reproduce the results presented in the paper below: Run `main.r` and make sure that all packages are installed:
 
  
-library("parallel")  
-library(R6)
-library('sets')
+- library("parallel")  
+- library(R6)
+- library('sets')
 
